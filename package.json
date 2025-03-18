@@ -1,0 +1,26 @@
+{
+  "name": "js-interview-questions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longmengua/js-interview-questions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/longmengua/js-interview-questions/issues"
+  },
+  "homepage": "https://github.com/longmengua/js-interview-questions#readme",
+  "dependencies": {
+    "typescript": "^5.8.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10"
+  }
+}
